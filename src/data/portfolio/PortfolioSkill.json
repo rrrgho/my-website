@@ -1,0 +1,80 @@
+{
+  "technical_skill": [
+    {
+      "id": 1,
+      "title": "Software Development Management",
+      "percantage": 90,
+      "progressColor": "#059DFF"
+    },
+    {
+      "id": 2,
+      "title": "Web Development",
+      "percantage": 90,
+      "progressColor": "#059DFF"
+    },
+    {
+      "id": 3,
+      "title": "Mobile App Development",
+      "percantage": 80,
+      "progressColor": "#059DFF"
+    },
+    {
+      "id": 4,
+      "title": "UI/UX",
+      "percantage": 60,
+      "progressColor": "#059DFF"
+    }
+  ],
+  "soft_skill": [
+    {
+      "id": 1,
+      "title": "Public Speaking & Communication",
+      "percantage": 95,
+      "progressColor": "#059DFF"
+    },
+    {
+      "id": 2,
+      "title": "Teamwork",
+      "percantage": 90,
+      "progressColor": "#059DFF"
+    },
+    {
+      "id": 3,
+      "title": "Problem Solving",
+      "percantage": 90,
+      "progressColor": "#059DFF"
+    },
+    {
+      "id": 4,
+      "title": "Time Management",
+      "percantage": 80,
+      "progressColor": "#059DFF"
+    },
+    {
+      "id": 4,
+      "title": "Organizational",
+      "percantage": 80,
+      "progressColor": "#059DFF"
+    }
+  ],
+  "language": [
+    {
+      "id": 1,
+      "title": "English",
+      "percantage": 90,
+      "progressColor": "#059DFF"
+    },
+    {
+      "id": 2,
+      "title": "Bahasa Indonesia",
+      "percantage": 90,
+      "progressColor": "#059DFF"
+    },
+    {
+      "id": 3,
+      "title": "Chinese Hokkien",
+      "percantage": 80,
+      "progressColor": "#059DFF"
+    }
+  ]
+}
