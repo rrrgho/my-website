@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "portfolioImage": "./images/myweb/mikroskil.png",
+        "image": "./images/myweb/mikroskil.png",
+        "title": "Telkomsel",
+        "subtitle": "Telkomsel - Smile Loyalty App",
+        "date": "Feb 2022 - Present",
+        "client": "Telkomsel",
+        "category": "Tech Lead Engineer",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["<p>Responsible for planning, organizing, and directing\nthe completion of specific projects for an\norganization while ensuring these projects are on\ntime, on budget, and within scope. </p> <p> Monitor Project\nProgress and Set Deadlines.\nMultiples project devided into several phase to built\nnew system called \"SmileLoyalty\". A system\nintended to manage Loyalty Point for Telkomsel Loyal\nMember.\nWe handle Telkomsel Poin, integrated with other\nTelkomsel's surrounding such as LinkAja,\nTelkomsel.com, MyTelkomsel, Etc.</p> <p> I also responsible to Establish a metrics based organization, develop key operational metrics and push for continuous improvement </p> <p> Provide strategic and operational oversight for Enterprise software product development </p> <p> Providing clear and concise instructions to engineering teams and Work closely with business leaders to develop short and long-term strategies </p>"],
+        "btn": {
+            "buttontext": "View Projects",
+            "link": "/"
+        },
+        "largeImage": "./images/myweb/mikroskil.png",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+            "imageOne": "./images/myweb/tsel-smileloyalty.png",
+            "imageTwo": "./images/myweb/tsel-jira.png",
+            "imageThree": "./images/myweb/tsel-bitbucket.png"
+        }
+    },
+
+    {
+        "id": 2,
+        "portfolioImage": "./images/myweb/lunata.png",
+        "image": "./images/myweb/lunata.png",
+        "title": "Detikcom, Transmedia",
+        "subtitle": "Detikcom Portal",
+        "date": "Feb 2021 - Feb 2022",
+        "client": "Detiknetwork, Transmedia",
+        "category": "Fullstack Engineer",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["Translated UX and business requirements into elegant code solutions.<br/>\nIntegrated enhancements into web design to improve user stickiness, smooth functionality, and boost load times.<br/>\nMaintaining and Updating existing production Web Apps.<br/>\nProvided security maintenance and patching on website interface to maintain viability after launch.<br/>\nAdhered to SEO best practices while designing sites."],
+        "btn": {
+            "buttontext": "View Projects",
+            "link": "https://www.detik.com/"
+        },
+        "largeImage": "./images/myweb/lunata.png",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+        }
+    },
+
+    {
+        "id": 3,
+        "portfolioImage": "./images/myweb/dinkes.png",
+        "image": "./images/myweb/dinkes.png",
+        "title": "GIC Trade",
+        "subtitle": "Web & Mobile GIC Traders App",
+        "date": "Jan 2019 - Jan 2021",
+        "client": "PT. Global Investa Capital",
+        "category": "Fullstack Engineer",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["Working in GIC Trade is a big honor for me,\nMy stack was Frontend Web Developer who responsible in Website and Trading Portal, which our team hands on the Web App that our traders use. <br /> <br/> I also handle for Cryptocurrency management, such as Wallet Exchange, Coin Swaping ( Pancake Swap ), Binance Smart Chain integration.\n\na lot of new knowleadge and skill that GIC Team has given to me, Next Js Expert, Testable Code, GraphQL, Web3, etc."],
+        "btn": {
+            "buttontext": "View Projects",
+            "link": "https://www.gicindonesia.com/en"
+        },
+        "largeImage": "./images/myweb/dinkes.png",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+        }
+    }
+]
